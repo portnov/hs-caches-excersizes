@@ -1,0 +1,6 @@
+*.hi
+*.o
+*.swp
+CacheTest
+.stack-work/
+test.html
