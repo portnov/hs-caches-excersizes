@@ -4,3 +4,4 @@
 CacheTest
 .stack-work/
 test.html
+*.cabal
